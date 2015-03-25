@@ -7,7 +7,7 @@ Stable tag: 0.1
 
 == Description ==
 
-Displays Account data from Wargaming.net. Now is statistic about World of Tanks game available.
+Displays account data from Wargaming.net. Now is statistic from your profile in World of Tanks game available.
 
 = Translations =
 
