@@ -1,6 +1,6 @@
 === WOT Press ===
 Contributors: LimeiraStudio 
-Tags: game, games, world of tanks, WOT, statistic, profile, plugin
+Tags: game, games, world of tanks, WOT, statistic, profile, plugin, widget
 Requires at least: 3.0.1
 Tested up to: 4.1.1
 Stable tag: 0.1
