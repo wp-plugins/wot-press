@@ -2,7 +2,7 @@
 
 /**
 Plugin Name: WOT Press
-Description: Displays Account data from Wargaming.net. Now is statistic about World of Tanks game available.
+Description: Displays account data from Wargaming.net. Now is statistic from your profile in World of Tanks game available.
 Version: 0.1
 Author: Limeira Studio
 Author URI: http://www.limeirastudio.com/
@@ -24,7 +24,7 @@ class WOT_Press extends WP_Widget {
 	
 	function __construct()	{
 		$options = array(
-            'description'   =>  'Displays Account data from Wargaming.net. Now is statistic of "World of Tanks" game available.',
+            'description'   =>  'Displays account data from Wargaming.net. Now is statistic from your profile in World of Tanks game available.',
             'name'          =>  'WOT Press'
         );
 		
