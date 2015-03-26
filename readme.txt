@@ -14,7 +14,10 @@ Displays account data from Wargaming.net. Now is statistic from your profile in 
 WOT Press distributes with translations for the following languages:
 
 * English
+* German
 * Russian
+* Ukrainian
+
 
 **Requirements**
 

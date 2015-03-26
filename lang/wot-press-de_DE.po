@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-03-25 17:02+0200\n"
+"PO-Revision-Date: 2015-03-26 01:34+0200\n"
+"Last-Translator: qwe\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: d:/dev/www/wptest/wp-content/plugins/wot-press\n"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:51
+msgid "Title"
+msgstr "Titel"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:55
+msgid "Nickname"
+msgstr "Spitzname"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:60
+msgid "Profile Link"
+msgstr "Profil-Link"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:75
+msgid "Nickname not specified"
+msgstr "Nickname nicht angegeben"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:85
+msgid "Battles fought"
+msgstr "Schlachten"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:86
+msgid "Personal rating"
+msgstr "Persönliche Bewertung"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:87
+msgid "Hits"
+msgstr "Hits"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:88
+msgid "Victories"
+msgstr "Siege"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:89
+msgid "Defeats"
+msgstr "Fehlschlag"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:90
+msgid "Draws"
+msgstr "Unentschieden"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:91
+msgid "Total experience"
+msgstr "Gesamterfahrung"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:92
+msgid "Average experience per battle"
+msgstr "Das Durchschnittsalter pro Kampf"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:93
+msgid "Maximum experience per battle"
+msgstr "Maximale Erfahrung pro Kampf"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:94
+msgid "Vehicles destroyed"
+msgstr "Fahrzeuge zerstört"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:95
+msgid "Shots fired"
+msgstr "Schüsse abgefeuert"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:96
+msgid "Maximum destroyed in battle"
+msgstr "Maximale Kampfes zerstört"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:97
+msgid "Maximum damage caused per battle"
+msgstr "Maximaler Schaden pro Kampf verursacht"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:98
+msgid "Hit ratio"
+msgstr "Hit-Ratio"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:99
+msgid "Base capture points"
+msgstr "Basiskontrollpunkte"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:100
+msgid "Base defense points"
+msgstr "Basisverteidigungspunkte"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:101
+msgid "Penetrations"
+msgstr "Durchdringen"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:102
+msgid "Battles survived"
+msgstr "Kämpfe überlebt"

@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-03-25 17:02+0200\n"
+"PO-Revision-Date: 2015-03-26 02:10+0200\n"
+"Last-Translator: qwe\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: d:/dev/www/wptest/wp-content/plugins/wot-press\n"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:51
+#, fuzzy
+msgid "Title"
+msgstr "Заголовок"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:55
+msgid "Nickname"
+msgstr "Ім'я у грі"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:60
+msgid "Profile Link"
+msgstr "Ссилка на профіль"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:75
+msgid "Nickname not specified"
+msgstr "Ім'я профілю не вказане"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:85
+msgid "Battles fought"
+msgstr "Проведено боїв"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:86
+msgid "Personal rating"
+msgstr "Особистий рейтинг"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:87
+msgid "Hits"
+msgstr "Попадання"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:88
+msgid "Victories"
+msgstr "Перемоги"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:89
+msgid "Defeats"
+msgstr "Поразки"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:90
+msgid "Draws"
+msgstr "Нічиїх"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:91
+msgid "Total experience"
+msgstr "Загальний досвід"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:92
+msgid "Average experience per battle"
+msgstr "Середній досвід за бій"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:93
+msgid "Maximum experience per battle"
+msgstr "Максимальний досвід за бій"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:94
+msgid "Vehicles destroyed"
+msgstr "Знешкоджено техніки"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:95
+msgid "Shots fired"
+msgstr "Пострілів"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:96
+msgid "Maximum destroyed in battle"
+msgstr "Максимально знешкоджено за бій"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:97
+msgid "Maximum damage caused per battle"
+msgstr "Максимальне пошкодження за бій"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:98
+msgid "Hit ratio"
+msgstr "Відсоток попадань"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:99
+msgid "Base capture points"
+msgstr "Очки захоплення бази"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:100
+msgid "Base defense points"
+msgstr "Очки захисту бази"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:101
+msgid "Penetrations"
+msgstr "Кількість пробиттів"
+
+#: d:/dev/www/wptest/wp-content/plugins/wot-press/wot-press.php:102
+msgid "Battles survived"
+msgstr "Вижив у боях"
